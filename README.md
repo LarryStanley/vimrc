@@ -6,12 +6,12 @@ Install
 -------
 In Ubuntu
 
-	wget https://raw.githubusercontent.com/scwuaptx/vimrc/master/install.sh
+	wget https://raw.githubusercontent.com/LarryStanley/vimrc/master/install.sh
 	sh Install.sh
 
 In OSX
 
-	wget https://raw.githubusercontent.com/scwuaptx/vimrc/master/install-mac.sh
+	wget https://raw.githubusercontent.com/LarryStanley/vimrc/master/install-mac.sh
 	sh install-mac.sh
 
 Remark
